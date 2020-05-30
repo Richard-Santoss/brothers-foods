@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "569754752951",
+    "firebase_url": "https://brothers-food-5a7ad.firebaseio.com",
+    "project_id": "brothers-food-5a7ad",
+    "storage_bucket": "brothers-food-5a7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569754752951:android:d3479d3f3af58a812cba32",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.brothersfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569754752951-d4bnh09tssfhtcufutdrp8n15mepfca5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.brothersfoods",
+            "certificate_hash": "a3c75b94a7b546bfa006b8029f6aa7ba341d0f5b"
+          }
+        },
+        {
+          "client_id": "569754752951-g8v9jr4k105jn44o9c5vr85g2pemiveg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOpTRdgfbADYFoZ8gIimNlB-zt1gRGVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569754752951-g8v9jr4k105jn44o9c5vr85g2pemiveg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
